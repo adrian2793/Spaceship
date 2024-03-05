@@ -1,6 +1,8 @@
-key,en,de
-$MainMenu_Label,Welcome to Spaceship,Herzlich Willkommen in Spaceship
-$MainMenu_Button2,Quit,Beenden
-$MainMenu_Button,Play,Spielen
-$Screen1_Label2,Spaceship,Spaceship
-$Screen1_Label,Loading,Das Spiel wird geladen
+key,en,de,context,label
+%app.title%,Spaceship,Spaceship,app.title,ressource
+%app.description%,No description available,Keine Beschreibung vorhanden,app.description,ressource
+$MainMenu_Label,Welcome to Spaceship,Herzlich Willkommen in Spaceship,$MainMenu_Label{welcome},heading:label
+$MainMenu_Button,Play,Spielen,$MainMenu_Button{play},button
+$MainMenu_Button2,Quit,Beenden,$MainMenu_Button2{quit},button
+$Screen1_Label,Loading,Das Spiel wird geladen,$Screen1_Label{loading},label
+$Screen1_Label2,Spaceship,Spaceship,$Screen1_Label2{game_name},label
