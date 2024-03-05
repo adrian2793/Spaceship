@@ -1,0 +1,24 @@
+# Godot 4+ specific ignores
+.godot/
+/script
+/themes
+/scenes
+/icons
+/images
+/fonts
+/3D
+/addons
+/android
+/audio
+/build
+/example
+project.godot
+translations/default.csv.import
+openxr_action_map.tres
+libdiscord_game_sdk_binding_debug.so
+libdiscord_game_sdk.so
+export_presets.cfg
+discord_game_sdk_binding_debug.dll
+default_bus_layout.tres
+control.pot
+apk.apk.idsig
