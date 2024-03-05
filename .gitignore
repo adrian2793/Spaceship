@@ -22,3 +22,5 @@ discord_game_sdk_binding_debug.dll
 default_bus_layout.tres
 control.pot
 apk.apk.idsig
+discord_game_sdk.dll
+libdiscord_game_sdk_binding.so
