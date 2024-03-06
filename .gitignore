@@ -24,3 +24,9 @@ control.pot
 apk.apk.idsig
 discord_game_sdk.dll
 libdiscord_game_sdk_binding.so
+apk.apk
+linux.sh
+linux.x86_64
+windows.exe
+windows.console.exe
+windows.pck
