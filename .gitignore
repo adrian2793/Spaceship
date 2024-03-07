@@ -30,3 +30,4 @@ linux.x86_64
 windows.exe
 windows.console.exe
 windows.pck
+*.translation
